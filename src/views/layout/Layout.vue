@@ -128,7 +128,8 @@
                 topbar: {
                     active: "",
                 },
-                randomIcon: []
+                randomIcon: [],
+                location:"中国北京"
             }
         },
         computed: {
